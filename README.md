@@ -1,2 +1,2 @@
 # BlackJack
-Basic BlackJack Example
+Basic BlackJack Example Problem.
